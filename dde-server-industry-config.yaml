@@ -1,0 +1,4 @@
+version_control: shuttle.corp.deepin.com
+src_repo: dde-server-industry-config
+tag_prefix: ^
+seperator: .
